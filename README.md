@@ -10,5 +10,6 @@ Welcome to ParkPass, an innovative app designed to enhance your safari park expe
 - **Park Guides**: Access detailed guides and tips for visiting each park.
 - **User Reviews**: Read and share experiences with the community.
 
-![IMG_2025](https://github.com/victorcodes63/ParkPass-/assets/114129672/7e59aaee-4853-4429-8390-a3a3a972e03e)
-![IMG_2026](https://github.com/victorcodes63/ParkPass-/assets/114129672/7a5e6c96-fb89-4ab8-997e-b53ff85d9ec7)
+
+![IMG](https://github.com/victorcodes63/ParkPass-/assets/114129672/ea20efd0-46ac-49cb-b23d-06d668c0cf55)
+![IMG 202](https://github.com/victorcodes63/ParkPass-/assets/114129672/c18aa4bd-e84a-4d01-84d8-f69517348cbd)
